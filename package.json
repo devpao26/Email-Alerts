@@ -1,0 +1,29 @@
+{
+  "name": "frequncy-alerts",
+  "version": "1.0.0",
+  "description": "Write the below application in Javascript or Typescript (e.g. Node.js) using an application\r type of your choice (console, web). You should focus on implementing the features\r outlined below using an interface appropriate for your chosen application type (e.g.\r buttons and fields for web, prompts for console etc).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "ts-node index.ts"
+  },
+  "author": "Paolo Cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "@types/node": "^12.11.1",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "ts-node": "^8.4.1",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpao26/Frequency-alerts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devpao26/Frequency-alerts/issues"
+  },
+  "homepage": "https://github.com/devpao26/Frequency-alerts#readme"
+}
